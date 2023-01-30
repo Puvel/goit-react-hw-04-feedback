@@ -1,0 +1,10 @@
+.feedbackBtn {
+  background-color: #ffffff;
+  border: 1px solid #ccc;
+  box-shadow: 2px 3px 5px 0px rgba(0, 0, 0, 0.2);
+  cursor: pointer;
+}
+
+.feedbackBtn:not(:last-child) {
+  margin-right: 20px;
+}
